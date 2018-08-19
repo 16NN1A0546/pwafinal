@@ -1,0 +1,46 @@
+{
+	"basics":{
+		"name":"Yamini",
+		"role":"student",
+		"mobile":"+91 9012345678",
+		"email":"yaminireddybathuni77@gmail.com"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[
+		{
+			"Degree":"B-Tech(Computer Science & Engineering",
+			"Institute":"Vignan's Nirula",
+			"Data":["2016-20","86%"]
+		},
+		{
+			"Degree":"Intermediate(MPC)",
+			"Institute":"Sri Chaitanya Junior College",
+			"Data":["2014-16","96.4%"]
+		},
+		{
+			"Degree":"SSC",
+			"Institute":"Sri Chaitanya Public School",
+			"Data":["2013-14","95%"]
+		}
+	],
+	"skills":[
+		{
+            "title":"Programming Languages",
+            "content":["Python","C","Java","R Programming","C++"]
+		},
+		{
+            "title":"Data Bases",
+            "content":["SQL","Oracle"]
+		},
+		{
+            "title":"Web Technologies",
+            "content":["HTML","CSS","XML"]
+		},
+		{
+            "title":"Operating System",
+            "content":["Linux","Turbo C","Unix","Windows"]
+		}
+	]
+}
